@@ -5,3 +5,4 @@
 # Main Tracker Domain : https://tracker.madtia.cc
 # Mirror #1 : https://madhost.altervista.org
 # Mirror #2 : https://empatyteam.altervista.org/
+08/07/2024 00:57 Update released, layout improved, download function updated, anti-duplicate torrents added, general mobile layout improved.

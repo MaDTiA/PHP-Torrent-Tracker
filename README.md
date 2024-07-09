@@ -1,5 +1,5 @@
 # MaDTracker
-# Is a project aimed to make available a wide range of free torrent tracker and indexer. <br>
+# Our project is dedicated to providing a comprehensive and secure platform for free torrent tracking and indexing. By utilizing the HTTPS protocol instead of the traditional UDP torrent trackers, we ensure enhanced privacy and security for our users. Enjoy a wide range of torrents with the confidence that your data is protected. <br>
 The script is developed and mainteined by me. Any donation is very appreciated! BTC : 33oqq9wjymexfX7VSoLix1agKeUVGnvm5m<br>
 # Main Tracker Domain : https://tracker.madtia.cc<br>
 MaD Tracker Mirror List<br>

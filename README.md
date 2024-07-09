@@ -1,6 +1,6 @@
 # MaDTracker
 # Is a project aimed to make available a wide range of free torrent tracker and indexer. <br>
-The script is developed and mainteined by me. Any donation is very appreciated!<br>
+The script is developed and mainteined by me. Any donation is very appreciated! BTC : 33oqq9wjymexfX7VSoLix1agKeUVGnvm5m<br>
 # Main Tracker Domain : https://tracker.madtia.cc<br>
 MaD Tracker Mirror List<br>
 Mirror #1 : https://madhost.altervista.org<br>

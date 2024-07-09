@@ -7,4 +7,5 @@ Mirror #1 : https://madhost.altervista.org<br>
 Mirror #2 : https://empatyteam.altervista.org/<br>
 08/07/2024 00:57 Update released, layout improved, download function updated, anti-duplicate torrents added, mobile layout improved.<br>
 08/07/2024 16:25 Major code updates, optimization and mirrors update.<br>
-09/07/2024 01:57 minor code fix and distribution to mirrors.<br>
+09/07/2024 01:57 Minor code fix and distribution to mirrors.<br>
+10/07/2024 00:38 Optimized the code and reduced the overall sized to 50kb.<br>

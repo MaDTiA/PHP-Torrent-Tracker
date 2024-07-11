@@ -10,3 +10,4 @@ Mirror #2 : https://empatyteam.altervista.org/<br>
 09/07/2024 01:57 Minor code fix and distribution to mirrors.<br>
 10/07/2024 00:38 Optimized the code and reduced the overall size to 50kb.<br>
 12/07/2024 01:40 Added new function on upload page for return uploaded file url.
+12/07/2024 01.:55 Added new function for return download link if file already exist. This will also prevent duplicate.

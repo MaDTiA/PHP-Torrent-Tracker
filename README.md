@@ -85,7 +85,7 @@ In conclusion, our project represents a significant advancement in the world of 
 
 Experience the future of torrent tracking and indexing with our secure platform. Sign up today and enjoy a wide range of torrents, knowing that your privacy and security are our top priorities. Join our community and be a part of the revolution in torrenting. Secure your data, protect your privacy, and explore the world of torrents with confidence.<br>
 The script is developed and mainteined by me. Any donation is very appreciated! BTC : 33oqq9wjymexfX7VSoLix1agKeUVGnvm5m<br>
-
+<center>
 <a href="https://ibb.co/9wdhLP8"><img src="https://i.ibb.co/dbHtqZW/tracker-acp.png" alt="tracker-acp" border="0"></a>
 <a href="https://ibb.co/fM4wL3r"><img src="https://i.ibb.co/31BZQxS/tracker-acplogin.png" alt="tracker-acplogin" border="0"></a>
 <a href="https://ibb.co/NnBHnPH"><img src="https://i.ibb.co/tPrWPtW/tracker-antiduplicate.png" alt="tracker-antiduplicate" border="0"></a>
@@ -99,7 +99,7 @@ The script is developed and mainteined by me. Any donation is very appreciated! 
 <a href="https://ibb.co/mFsV0WW"><img src="https://i.ibb.co/h15Jczz/tracker-supportus.png" alt="tracker-supportus" border="0"></a>
 <a href="https://ibb.co/wd5xssC"><img src="https://i.ibb.co/S6F9rr0/tracker-upload.png" alt="tracker-upload" border="0"></a>
 <a href="https://ibb.co/q5dVxKz"><img src="https://i.ibb.co/fv2LQfb/tracker-uploadcomplete.png" alt="tracker-uploadcomplete" border="0"></a>
-
+</center>
 # Main Tracker Domain : https://tracker.madtia.cc<br>
 MaD Tracker Mirror List<br>
 Mirror #1 : https://madhost.altervista.org<br>

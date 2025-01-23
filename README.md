@@ -116,4 +116,4 @@ Mirror #2 : https://empatyteam.altervista.org<br>
 12/07/2024 01:55 Added new function for return download link if file already exist. This will also prevent duplicate.<br>
 12/07/2024 15:55 Released a fix for the upload function.<br>
 12/09/2024 16:42 Update released, webseed feature is now available on stored torrent.<br>
-22/01/2025 13:37 New gui released, search bar fixed ( terms are now retained across multiple pages results ), ads removed totally, popup removed, contact form added, mobile responsive layout updated.<br>
+22/01/2025 13:37 New gui released, search bar fixed ( terms are now retained across multiple pages results ), ads removed totally, popup removed, contact form added, mobile responsive layout updated. I wish to thanks everybody for supporting, trusting and using my torrent tracker.<br>

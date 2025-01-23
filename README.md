@@ -86,6 +86,7 @@ In conclusion, our project represents a significant advancement in the world of 
 Experience the future of torrent tracking and indexing with our secure platform. Sign up today and enjoy a wide range of torrents, knowing that your privacy and security are our top priorities. Join our community and be a part of the revolution in torrenting. Secure your data, protect your privacy, and explore the world of torrents with confidence.<br>
 The script is developed and mainteined by me. Any donation is very appreciated! BTC : 33oqq9wjymexfX7VSoLix1agKeUVGnvm5m<br>
 
+### OLD GUI
 <a href="https://ibb.co/9wdhLP8"><img src="https://i.ibb.co/dbHtqZW/tracker-acp.png" alt="tracker-acp" border="0"></a>
 <a href="https://ibb.co/fM4wL3r"><img src="https://i.ibb.co/31BZQxS/tracker-acplogin.png" alt="tracker-acplogin" border="0"></a>
 <a href="https://ibb.co/NnBHnPH"><img src="https://i.ibb.co/tPrWPtW/tracker-antiduplicate.png" alt="tracker-antiduplicate" border="0"></a>
@@ -100,6 +101,9 @@ The script is developed and mainteined by me. Any donation is very appreciated! 
 <a href="https://ibb.co/wd5xssC"><img src="https://i.ibb.co/S6F9rr0/tracker-upload.png" alt="tracker-upload" border="0"></a>
 <a href="https://ibb.co/q5dVxKz"><img src="https://i.ibb.co/fv2LQfb/tracker-uploadcomplete.png" alt="tracker-uploadcomplete" border="0"></a>
 
+
+### NEW GUI
+
 # Main Tracker Domain : https://tracker.madtia.cc<br>
 MaD Tracker Mirror List<br>
 Mirror #1 : https://madhost.altervista.org<br>
@@ -112,3 +116,4 @@ Mirror #2 : https://empatyteam.altervista.org<br>
 12/07/2024 01:55 Added new function for return download link if file already exist. This will also prevent duplicate.<br>
 12/07/2024 15:55 Released a fix for the upload function.<br>
 12/09/2024 16:42 Update released, webseed feature is now available on stored torrent.<br>
+22/01/2025 13:37 New gui released, search bar fixed ( terms are now retained across multiple pages results ), ads removed totally, popup removed, contact form added, mobile responsive layout updated.<br>

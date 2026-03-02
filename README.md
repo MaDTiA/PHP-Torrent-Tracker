@@ -57,7 +57,7 @@ udp://node02.madtia.cc:42069/announce
 
 ```
 
-> Only indexed torrents are tracked. Upload your .torrent file first.
+> Only indexed torrents are tracked. Upload your .torrent file first. ( not needed for udp nodes )
 
 ---
 

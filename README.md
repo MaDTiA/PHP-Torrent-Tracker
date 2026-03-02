@@ -49,6 +49,12 @@ Add these to your torrent client or .torrent files:
 https://tracker.madtia.cc/announce
 https://edge-team.cc/announce
 https://torrentonline.cc/announce
+udp://node01.trackerstatus.live:42069/announce
+udp://node01.madtia.cc:42069/announce
+udp://node02.torrentonline.cc:42069/announce
+udp://node01.torrentonline.cc:42069/announce
+udp://node02.madtia.cc:42069/announce
+
 ```
 
 > Only indexed torrents are tracked. Upload your .torrent file first.
